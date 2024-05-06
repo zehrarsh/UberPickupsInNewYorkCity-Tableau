@@ -1,7 +1,7 @@
 # UberPickupsInNewYorkCity-Tableau
-![Alt Text](URL)
-![Alt Text](URL)
-![Alt Text](URL)
+![Alt Text](UberDataAnalysis.png)
+![Alt Text](BusiestLocation.png)
+![Alt Text](InsightsfromUberDataAnalysis.png)
 
 ## Introduction
 Welcome to the Uber Data Analysis Tableau project! This project aims to analyze and visualize data related to Uber rides using Tableau. By leveraging interactive dashboards and visualizations, we can gain insights into various aspects of Uber operations, including ride patterns, driver behavior, customer demographics, and traffic trends.
